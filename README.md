@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathiyapriyakm" alt="sathiyapriyakm" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Jenkins**
+- 🌱 I’m currently learning **AWS, Python**
 
 - 👨‍💻 All of my projects are available at [https://sathiyapriya-krishnasamy.netlify.app](https://sathiyapriya-krishnasamy.netlify.app)
 
